@@ -1,0 +1,8 @@
+Maven uniquely identifies a project using:
+groupID: Arbitrary project grouping identifier (no spaces or colons)
+Usually loosely based on Java package
+artfiactId: Arbitrary name of project (no spaces or colons)
+version: Version of project
+Format {Major}.{Minor}.{Maintanence}
+Add ‘-SNAPSHOT ‘ to identify in development
+GAV Syntax: groupId:artifactId:version
